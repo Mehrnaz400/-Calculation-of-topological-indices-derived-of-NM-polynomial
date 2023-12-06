@@ -1,0 +1,1 @@
+# -Calculation-of-topological-indices-derived-of-NM-polynomial
